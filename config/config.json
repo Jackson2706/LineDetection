@@ -2,5 +2,9 @@
   "youtube_video_url": "https://www.youtube.com/watch?v=ZOZOqbK86t0",
   "video_path": "video/lane_video.mp4",
   "fps": 30.0,
-  "frame_size": [1600, 800]
+  "frame_size": [1600, 800],
+  "bottom_left_rate": [0.1, 0.95],
+  "top_left_rate": [0.6, 0.6],
+  "bottom_right_rate": [0.9, 0.95],
+  "top_right_rate": [0.6, 0.6]
 }
